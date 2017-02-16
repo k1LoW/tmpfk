@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['k1LoW']
   spec.email         = ['k1lowxb@gmail.com']
 
-  spec.summary       = 'Temporary foreign key add/drop tool for using ER generator for "Keyless entry (SQL Antipatterns)" schema.'
-  spec.description   = 'Temporary foreign key add/drop tool for using ER generator for "Keyless entry (SQL Antipatterns)" schema.'
+  spec.summary       = 'Temporary foreign key add/drop tool for using ERD generator for "Keyless entry (SQL Antipatterns)" schema.'
+  spec.description   = 'Temporary foreign key add/drop tool for using ERD generator for "Keyless entry (SQL Antipatterns)" schema.'
   spec.homepage      = 'https://github.com/k1LoW/tmpfk'
   spec.license       = 'MIT'
 

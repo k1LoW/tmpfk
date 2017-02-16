@@ -1,6 +1,6 @@
 # tmpfk
 
-Temporary foreign key add/drop tool for using ER generator for "Keyless entry (SQL Antipatterns)" schema.
+Temporary foreign key add/drop tool for using ERD generator for "Keyless entry (SQL Antipatterns)" schema.
 
 ## Installation
 
