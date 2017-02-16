@@ -1,19 +1,21 @@
 # tmpfk
 
-Temporary foreign key setting tool for using ER generator for "Keyless entry (SQL Antipatterns)" schema.
+Temporary foreign key add/drop tool for using ER generator for "Keyless entry (SQL Antipatterns)" schema.
 
 ## Installation
 
-install it yourself as:
+Install it yourself as:
 
 ```sh
-$ gem install specific_install
-$ gem specific_install https://github.com/k1LoW/tmpfk.git 
+$ gem install tmpfk
 ```
 
 ## Usage
 
-Use the same config.yml as [Ridgepole](https://github.com/winebarrel/ridgepole) config.yml.
+### Requirement
+
+- "Keyless entry (SQL Antipatterns)" database.
+- The Same format config.yml as [Ridgepole](https://github.com/winebarrel/ridgepole)'s config.yml.
 
 ### Add foreign keys
 
