@@ -2,6 +2,8 @@
 
 Temporary foreign key add/drop tool for using ERD generator for "Keyless entry (SQL Antipatterns)" schema.
 
+![tmpfk](er.png)
+
 ## Installation
 
 Install it yourself as:
